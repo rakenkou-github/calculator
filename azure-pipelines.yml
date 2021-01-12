@@ -5,7 +5,7 @@
 # Add NPm Test
 
 trigger:
-- main
+- master
 
 pool:
   vmImage: 'ubuntu-latest'
